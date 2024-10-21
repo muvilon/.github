@@ -6,4 +6,4 @@ It aims to be fully fledged Wayland based environment that caters to all your ne
 
 Check out:
 
-[muvilock](https://github.com/muvilon/muvilock)  - Simple Screen locking utility for Wayland based compositors
+[anvilock](https://github.com/muvilon/anvilock)  - Simple Screen locking utility for Wayland based compositors
