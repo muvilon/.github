@@ -1,6 +1,6 @@
 # MUVILON
 
-MUVILON stands for **MU**ltiplexed e**VI**ronment for **LON**ers
+MUVILON stands for **MU**ltiplexed en**VI**ronment for **LON**ers
 
 It aims to be fully fledged Wayland based environment that caters to all your needs
 
